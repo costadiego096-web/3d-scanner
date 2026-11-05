@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Scan3D Studio</string>
+    <string name="camera_permission_required">Permesso fotocamera necessario per la scansione 3D</string>
+    <string name="grant_permission">Consenti Fotocamera</string>
+    <string name="new_scan">Nuova Scansione</string>
+    <string name="scan_title">Scanner 3D</string>
+    <string name="library_title">Modelli 3D</string>
+    <string name="export_obj">Esporta OBJ</string>
+    <string name="share_obj">Condividi Modello OBJ</string>
+    <string name="model_statistics">Statistiche Modello</string>
+    <string name="shading_textured">Texture &amp; Colori</string>
+    <string name="shading_solid">Ombreggiatura Solida</string>
+    <string name="shading_wireframe">Wireframe</string>
+    <string name="shading_points">Nuvola di Punti</string>
+    <string name="captured_angles">Angoli acquisiti</string>
+    <string name="reset_camera">Reset Vista</string>
+    <string name="rotate_hint">Trascina per ruotare, pizzica per zoomare</string>
+    <string name="delete_scan">Elimina</string>
+    <string name="delete_confirm">Sei sicuro di voler eliminare questa scansione?</string>
+</resources>

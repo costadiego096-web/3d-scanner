@@ -1,0 +1,6 @@
+{
+  "name": "Scan3D Studio",
+  "description": "Scanner 3D con fotocamera dello smartphone, orientamento guidato a 360°, visualizzatore 3D interattivo ed esportazione in formato OBJ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
